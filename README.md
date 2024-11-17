@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Shashi Varun and I'm a Student, from Hyderabad</h2>
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
