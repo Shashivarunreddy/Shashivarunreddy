@@ -50,9 +50,9 @@
   </a>
 </div>
 
-<div align="center">
-![snake gif](https://github.com/Shashivarunreddy/Shashivarunreddy/blob/output/github-snake-dark.svg)
-</div>
+ <div align="center">
+[![snake gif](https://github.com/Shashivarunreddy/Shashivarunreddy/blob/output/github-snake-dark.svg)](https://github.com/Shashivarunreddy/Shashivarunreddy)
+ </div>
 ###
 
 
