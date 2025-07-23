@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shashi Varun and I'm a Student, from Hyderabad</h2>
+<h2 align="left">Hi 👋! My name is Shashi Varun and I'm from Hyderabad</h2>
 
 
 
